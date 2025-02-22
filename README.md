@@ -2,6 +2,7 @@
 
 This is my personal portfolio website showcasing my skills, projects, and experience as a developer. It serves as an online resume and a platform to connect with potential employers and collaborators.
 
+
 ## Features
 
 - **Home Page** – Introduction and a brief overview.
